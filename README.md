@@ -6,9 +6,13 @@ Predicting Heart Disease from the set of three types of information, making a to
 3) Test results (such as ECG, oldpeak etc)
 
 13 Features are:
+
 age: The person's age in years
+
 sex: The person's sex (1 = male, 0 = female)
+
 cp: The chest pain experienced (Value 1: typical angina, Value 2: atypical angina, Value 3: non-anginal pain, Value 4: asymptomatic)
+
 trestbps: The person's resting blood pressure (mm Hg on admission to the hospital)
 chol: The person's cholesterol measurement in mg/dl
 fbs: The person's fasting blood sugar (> 120 mg/dl, 1 = true; 0 = false)
