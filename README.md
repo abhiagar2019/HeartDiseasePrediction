@@ -29,7 +29,7 @@ I am running multiple (8) base and grid searched classification models on
 2.	Top 10 selected features (removing co-linear and features that were not highly correlated with the target variable)
 3.	PCA with 8 components having 80% cumulative variance
 
-So, in total 24 models to understand which model provides the best results.
+So, in total 24 models were run to understand which model would provide the best results.
 
 Girdsearched SVM comes out as the best model with cross validation score of 84% (FYI, base accuracy was 54%).
 
