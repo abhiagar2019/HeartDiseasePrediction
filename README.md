@@ -31,4 +31,4 @@ So, in total 24 models to understand which model provides the best results.
 
 Girdsearched SVM comes out as the best model with cross validation score of 84% (FYI, base accuracy was 54%).
 
-More detailed analysis coming soon.
+More detailed analysis coming soon. 
